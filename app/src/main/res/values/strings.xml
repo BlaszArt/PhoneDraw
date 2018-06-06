@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PhoneDraw</string>
+    <string name="start_new">New</string>
+    <string name="brush">Brush</string>
+    <string name="erase">Erase</string>
+    <string name="save">Save</string>
+    <string name="load">Load</string>
+    <string name="paint">Paint</string>
+
+    <string name="sml">Small</string>
+    <string name="med">Medium</string>
+    <string name="lrg">Large</string>
+    <string name="description">Before using accelerometer to drawing we advise you to calibrate it.
+    To do this click on proper button.\n\n\n
+    Below you can see values flowing from your accelerometer:</string>
+</resources>
